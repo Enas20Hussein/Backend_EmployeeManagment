@@ -1,4 +1,4 @@
-# Backend_EmployeeManagment
+#EmployeeManagment
 1-//Update the connection string in appsettings.json replace with your server name 
 "ConnectionStrings": {
   "DefaultConnection": "Server=(localdb)\\mssqllocaldb;Database=EmployeeManagementDB;Trusted_Connection=True;MultipleActiveResultSets=true"
